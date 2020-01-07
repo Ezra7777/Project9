@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3/libs" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3/libs/commons-io-2.6/docs" />
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3/libs/docs" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-3/libs" recursive="false" />
+  </library>
+</component>
